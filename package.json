@@ -1,6 +1,6 @@
 {
-	"name": "sortable",
-	"exportName": "Sortable",
+	"name": "sortable2",
+	"exportName": "sortable2",
 	"version": "1.10.2",
 	"devDependencies": {
 		"@babel/core": "^7.4.4",
